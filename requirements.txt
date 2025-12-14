@@ -1,0 +1,4 @@
+streamlit      # Cria dashboards interativos em Python.
+pandas         # Manipula e analisa dados.
+seaborn        # Gera gráficos estatísticos.
+matplotlib     # Cria gráficos em Python.
